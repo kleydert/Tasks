@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Prata&display=swap");
+
+body {
+  margin: 0;
+  background: rgb(96, 99, 95);
+  color: rgb(0, 0, 0);
+}
+h1,
+h2,
+h3 {
+  font-family: "Lato";
+  margin-top: 0;
+  margin-bottom: 2em;
+  color: black;
+}

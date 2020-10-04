@@ -1,0 +1,14 @@
+$colorFondo: rgb(219, 216, 206);
+$tituloEnColor: black;
+
+body {
+  background-color: $colorFondo;
+}
+h1,
+tr,
+td,
+table,
+ul,
+li {
+  color: $tituloEnColor;
+}
